@@ -171,6 +171,7 @@ public class activity_second extends AppCompatActivity {
 }
 ~~~
 OUTPUT:
+
 ![Screenshot 2024-10-19 102700](https://github.com/user-attachments/assets/c21be5e0-0f89-4499-904a-92fe3289b5c9)
 
 ![Screenshot 2024-10-19 103300](https://github.com/user-attachments/assets/cc270dd2-45cb-42ed-ac17-7399373b2546)
